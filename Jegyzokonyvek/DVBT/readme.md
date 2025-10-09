@@ -15,3 +15,4 @@ Antenna típusa: ISKRA P20
 Antenna magassága: 1.3 m  
 Környezet jellemzői: V3 labor, városi körülmények között  
 Adó távolsága: 783,95  
+<img width="960" height="786" alt="image" src="https://github.com/user-attachments/assets/10a23d3f-8dfb-4be6-9f1a-456211fa6ea6" />
