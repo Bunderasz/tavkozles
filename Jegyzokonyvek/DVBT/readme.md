@@ -18,15 +18,15 @@ Adó távolsága: 783,95
 <img width="960" height="786" alt="image" src="https://github.com/user-attachments/assets/10a23d3f-8dfb-4be6-9f1a-456211fa6ea6" />
 
 ## 3. Mérési paraméterek
-| Paraméter | Érték | 
+| **Paraméter** | **Érték** | 
 | --------- | ----- | 
-| Adó frekvencia |	634 MHz | 
-| Sávszélesség | 8MHz | 
-| Moduláció típusa |	QPSK, 8K, 1/32 | 
-| Jelerősség (RSSI) |	50.0 dBuV | 
-| MER |	27,6 dB | 
-| Noise Margin | 23,7 | 
-| Hiba nélkül vett adás időtartama |	200 sec | 
+| **Adó frekvencia** |	**634 MHz** | 
+| **Sávszélesség** | **8MHz** | 
+| **Moduláció típusa** |	**QPSK, 8K, 1/32** | 
+| **Jelerősség (RSSI)** |	**50.0 dBuV** | 
+| **MER** |	**27,6 dB** | 
+| **Noise Margin** | **23,7** | 
+| **Hiba nélkül vett adás időtartama** |	**200 sec** | 
 
 ## 4. Mérési eredmények
 * Jelerősség: A mért jelerősség 50 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.
